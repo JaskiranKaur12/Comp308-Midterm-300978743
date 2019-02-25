@@ -1,3 +1,4 @@
+//Jaskiran Kaur(300978743)
 let mongoose = require('mongoose');
 
 // create a model class
